@@ -1,5 +1,7 @@
 ### Hi there I am Şeyma 👋
 
+- 🔭 I’m currently working on Java Backend Development.
+
 <!--
 **seymatezcan/seymatezcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
