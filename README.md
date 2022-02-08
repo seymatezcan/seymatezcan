@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Java Backend Development.
 - - 📫 How to reach me: linkedin.com/seymatezcan
-- 
+- - - I'm currently a bootcamp student at hepsiemlak.
 
 <!--
 **seymatezcan/seymatezcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
